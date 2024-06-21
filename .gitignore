@@ -1,0 +1,6 @@
+# ignore files in smp folder
+*.wav
+*.mp3
+
+#ignore scope3d.pd object from ben wesch
+scope3d.pd
